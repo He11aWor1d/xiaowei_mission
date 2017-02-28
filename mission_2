@@ -1,0 +1,164 @@
+<<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>task_1_2_1</title>
+
+	<style>
+		.header {background-color: black; height: 100px;}
+		.header img {height: 120px; width: 200px; position: absolute; left:30px; top:40px; display: inline-block;}
+		.header nav {position:relative; display: inline-block; float: right;}
+		.header ul li a {text-decoration: none;}
+		.header ul li {display: inline; float: right;margin: 10px; margin-top: 40px;}
+
+		.paragraph {background-color:#CCCCFF; margin: 15px,10px;}
+		figure {border: 1px solid black; width:600px; padding: 10px;}
+		table {border-collapse: collapse; width:100%;}
+		th {background-color:#333333; text-align: left;}
+		.sum {background-color: grey;}
+		.forms{display: inline-block;text-align: right; width:300px;}
+		.warning {margin-left: 300px; font-size: 80%;}
+		button {width:1300px; height: 40px; background-color: blue; color: white;font-size: 14; border-radius: 10px;}
+
+		.footer {width:100%; height: 40px; background-color: black; color: white; text-align: center; line-height: 40px;font-size: 70%;}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<img src="http://imgsrc.baidu.com/forum/w%3D580/sign=4010e107a4c27d1ea5263bcc2bd4adaf/1db758ee3d6d55fb26d425856d224f4a20a4dd27.jpg" alt="baidu_logo">
+		<ul class="navul">
+			<li><a href="https://v.qq.com/x/cover/fhe2h7sop52qzza.html?ptag=douban.movie"><font color="grey">腾讯视频在线观看</font></a></li>
+			<li><a href="http://www.le.com/ptv/vplay/25396497.html?ch=douban_ffdy"><font color="white">乐视视频在线观看</font></a></li>
+			<li><a href="http://www.iqiyi.com/v_19rrlpltbg.html?vfm=m_331_dbdy&fv=4904d94982104144a1548dd9040df241"><font color="white">爱奇艺视频在线观看</font></a></li>
+			<li><a href="http://www.mgtv.com/h/168294.html?cxid=94l62sj44"><font color="white">芒果TV在线观看</font></a></li>
+		</ul>
+	</div>
+
+	<div class="main">
+		<div class="paragraph">
+			<h2>长篇评论一</h2>
+			<h3>疯狂动物城：政治正确的美丽新世界</h3>
+			<span> Tom 2016-02-27 17:51:58</span>
+			<p>
+				在一个前所未有的、宏大且细节丰富的<a href="http://ife.baidu.com">乌托邦式世界</a>中，我们能清楚地见到萌态可掬的动物们所代表的各色人等。农耕的兔子，车管局DMV的树懒（结结实实吐了个大槽），以及食肉动物和食草动物之间难以抹平的DNA鸿沟。
+				<br/>
+				即便生活在同一个“动物城 Zootopia”，依然要遵循各种基本规则（fa），体型不同的动物们依然享有着不同尺寸的生活空间，像狐狸这样的投机主义者也依然会利用这种规则的漏洞去赚取利益。<br/>
+				表面平和的城市里依然有着“<b>毒品贩子</b>”和挑拨离间的阴险小人，而食肉动物的捕猎本性也依然是食草动物心中的大患所在，仅仅因为一个个例甚至是一句话，就会激起不同阶层之间的盲目对抗，叫嚷着让对方滚出这片乐土。  
+			</p>
+			<img src="https://img3.doubanio.com/view/photo/photo/public/p2315674123.jpg" alt="动物城全景">
+			<p>在《疯狂动物城》中，动画的设计者们不能再直白地点出了“各族人民大团结”的中心思想，用主人公从偏见的受害者到无意识的加害者的变化，意图在观众的心里埋下一颗真诚相对的种子。<br/><b>《疯狂动物城》</b>巧妙而敏锐地结合了温柔和智慧，非常及时地在当下传播和呼唤更多的包容和平等。在我看来，这部电影真正闪光的地方就是在当下的社会环境中，能够大方地涉及到种族和宗教信仰的歧视，提出了一些很有趣的问题，<a href="http://ife.baidu.com" target="_blank">无论是儿童还是成人观众</a>都会在故事结束之后有所思索。考虑最近种族之间的紧张关系，尤其是美国以及欧洲的难民危机，这显然是一次非常有趣和大胆的观影体验。</p>
+		</div>
+		<div class="paragraph">
+			<h2>长篇评论二</h2>
+			<h3>《疯狂动物城》的三重内涵，以及一个文化图腾的诞生</h3>
+			<span> Jerry 2016-03-04 09:27:50</span>
+			<p>作为“理想社会”的代名词，“乌托邦”源于十六世纪英国学者托马斯·摩尔的同名著作。<br/>在那本书中，摩尔虚构了一个拥有完美社会体制的小岛，不但废除私有制，而且实现了人人平等。在<a href="http://ife.baidu.com">理想制度</a>的保护下，小岛上的居民充分享受自由。现实社会中的贫困与罪恶也不存在于这个小岛。正当英国民众对政坛红人摩尔充满希望时，他却被好友亨利八世<b>处决</b>。</p>
+			<img src="https://img1.doubanio.com/view/photo/photo/public/p2277484017.jpg">
+			<ul>
+				<li>动物托邦</li>
+				<li>成人爱动画</li>
+				<li>文化改变世界</li>
+			</ul>
+		</div>
+		<div class="paragraph">
+				<h3>图片</h3>
+				<figure>
+					<figcaption align="center">豹子警员</figcaption><br/>
+					<img src="https://img5.doubanio.com/view/photo/photo/public/p2277484016.jpg" alt="豹子">
+				</figure><br/><br/>
+				<figure>
+					<figcaption align="center">警长</figcaption><br/>
+					<img src="https://img3.doubanio.com/view/photo/photo/public/p2277484015.jpg" alt="牛">
+				</figure><br/><br/>
+				<figure>
+					<figcaption align="center">市长</figcaption><br/>
+					<img src="https://img3.doubanio.com/view/photo/photo/public/p2277484013.jpg" alt="狮子">
+				</figure><br/><br/>
+
+		</div>
+		<div class="paragraph">
+			<h2>下面是表格与表单</h2>
+			<h3>文章二级标题</h3>
+			<span>赵斐昊 2017-02-27 16:10:10</span>
+			&nbsp;&nbsp;<div>
+							<ol>
+								<li>排名1</li>
+								<li>排名2</li>
+								<li>排名3</li>
+							</ol>
+				  		</div>
+			<br/>
+			下面是一个表格，给表格加一个border="1"好让你看出是一个表格<br/>
+			<table border="1">
+				<tr>
+					<th>表头</th>
+					<th>表头</th>
+					<th>表头</th>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#">操作</a></td>
+				</tr>
+				<tr class="sum">
+					<td>总计</td>
+					<td colspan="2">1000</td>
+				</tr>
+			</table>
+		</div>
+		<div class="paragraph">
+			<div id="sidebar">
+				<h2>这里以后是一个侧栏，这是侧栏的标题</h2>
+			</div>
+			<div align="center">
+				<form>
+					<span class="forms">请输入邮箱地址</span><input type="email" placeholder="这是一个文本输入框">
+					<br/><br/>
+
+					<font class="warning" color="grey">邮箱地址请按要求格式输入</font>
+					<br/><br/>
+
+					<span class="forms">请输入密码</span><input type="password" minlength="6" maxlength="16" placeholder="这是一个文本输入框"><br/>
+
+					<span class="forms">请重复输入密码</span><input type="password" minlength="6" maxlength="16" pattern="[0-9][a-z][A-Z]" placeholder="这是一个文本输入框"><br/>
+
+					<font class="warning" color="grey">密码请为6-16位英文数字</font>
+					<br/><br/>
+
+					<span class="forms">性别</span><input type="radio" name="sex" value="male" checked>男<input type="radio" name="sex" value="female">女<br/>
+
+					<span class="forms">城市</span>
+					<select name="city" id="cities">
+						<option value="beijing">北京</option>
+						<option value="nanjing">南京</option>
+						<option value="neimeng">内蒙</option>
+					</select><br/>
+
+					<span class="forms">爱好</span><input type="checkbox" name="hobby">运动<input type="checkbox" name="hobby">艺术<input type="checkbox" name="hobby">科学<br/>
+
+					<span class="forms">个人描述</span><textarea rows="4" cols="100" placeholder="这是一个多行输入框，输入您的个人描述"></textarea><br/>
+
+					<button type="submit" value="Submit">确认提交</button>
+				</form>
+		</div>	
+	</div>
+	<div class="footer">
+		<p>版权所有©</p>
+	</div>
+</body>
+</html>
