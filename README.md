@@ -9,3 +9,5 @@
 <br/>
 <br/>任务六：<a href="http://htmlpreview.github.com/?https://github.com/He11aWor1d/xiaowei_mission/blob/master/mission_6/mission_6.html">点击预览</a>  由于用到绝对定位定位了其中一些元素，导致分辨率不同可能显示的结果不同，我是在chrome下的100%缩放比例下制作的，只能该条件下正常显示（尴尬）<br/>
 <br/>任务七:<a href="http://htmlpreview.github.com/?https://github.com/He11aWor1d/xiaowei_mission/blob/master/mission_7/index.html">点击预览</a>这个任务也有一点偷懒了<br/>
+<br/>
+任务八：<a href="http://htmlpreview.github.io/?https://github.com/He11aWor1d/xiaowei_mission/blob/master/mission_8/index.html">点击预览<a/>模仿bootstrap的响应式栅格布局。
